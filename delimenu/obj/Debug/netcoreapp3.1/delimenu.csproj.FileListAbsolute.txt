@@ -1,0 +1,13 @@
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.exe
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.deps.json
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.runtimeconfig.json
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.runtimeconfig.dev.json
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.dll
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\bin\Debug\netcoreapp3.1\delimenu.pdb
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.csproj.AssemblyReference.cache
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.AssemblyInfoInputs.cache
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.AssemblyInfo.cs
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.csproj.CoreCompileInputs.cache
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.dll
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.pdb
+C:\Users\Zaljebori\source\repos\delimenu\delimenu\obj\Debug\netcoreapp3.1\delimenu.genruntimeconfig.cache
